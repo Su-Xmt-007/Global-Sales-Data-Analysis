@@ -271,8 +271,15 @@ A professional 3-page interactive Power BI dashboard was developed for executive
 
 ## Executive Dashboard
 
-<!-- Replace with dashboard screenshot -->
-<img width="1400" alt="Global Sales Dashboard" src="YOUR_DASHBOARD_IMAGE_LINK">
+<img width="769" height="436" alt="executiveSummaryDashboard" src="https://github.com/user-attachments/assets/9fdf8fe4-a4dc-4548-9fd6-aeb67e12f943" />
+
+## Customer Behaviour Dashboard
+
+<img width="771" height="429" alt="CustomerBehaviourDashboard" src="https://github.com/user-attachments/assets/519c93c6-52ea-466a-9637-f803c7148a51" />
+
+## Regional Summary Dashboard
+
+<img width="771" height="433" alt="RegionalSummaryDashboard" src="https://github.com/user-attachments/assets/94ff48e6-20d5-4e3d-9f07-5eea4068051c" />
 
 ---
 
